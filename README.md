@@ -7,6 +7,6 @@ I'm **John Lê**, a Project Manager at Saigon Technology passionate about AI, We
 - 👯 Open to collaborating on AI, Web3, Payments, and RWA projects.
 - 💬 Ask me about Product Management, TypeScript, JavaScript, and Blockchain.
 - 📫 Reach me:
-  - LinkedIn: https://www.linkedin.com/in/john-le-06a545285
-  - X: https://x.com/JohnLetw
+  - LinkedIn: https://www.linkedin.com/in/hung-tran-duy-06a545285
+  - X: https://x.com/HungTranDuz
 - ⚡ Interested in Agentic Commerce, stablecoins, and on-chain product development.
