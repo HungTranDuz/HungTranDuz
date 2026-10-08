@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **John Lê**, a Project Manager at Saigon Technology passionate about AI, Web3, and building scalable products.
+I'm **Hung Tran**, a Project Manager at Netlink Viet Nam passionate about AI, Web3, and building scalable products.
 
 - 🔭 Working on AI and blockchain solutions.
 - 🌱 Learning Solidity, Rust, CosmWasm, Move (Sui), and Soroban.
